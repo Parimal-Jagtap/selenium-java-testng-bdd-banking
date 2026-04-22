@@ -85,5 +85,11 @@ mvn allure:serve
 | API Validation | Transaction API, balance API verification |
 
 ---
+---
+
+## 👤 Author
+
+**Parimal Jagtap** — SDET | 4+ Years  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parimaljagtap-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parimaljagtap)
 
 ## 📊 CI/CD Pipeline
