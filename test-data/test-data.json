@@ -1,0 +1,28 @@
+{
+  "validUser": {
+    "username": "testuser@bank.com",
+    "password": "TestPass@123"
+  },
+  "invalidUser": {
+    "username": "invalid@bank.com",
+    "password": "WrongPass"
+  },
+  "impsTransfer": {
+    "type": "IMPS",
+    "beneficiaryAccount": "1234567890",
+    "amount": "1000",
+    "remarks": "Test IMPS Transfer"
+  },
+  "neftTransfer": {
+    "type": "NEFT",
+    "beneficiaryAccount": "9876543210",
+    "amount": "5000",
+    "remarks": "Test NEFT Transfer"
+  },
+  "rtgsTransfer": {
+    "type": "RTGS",
+    "beneficiaryAccount": "5555555555",
+    "amount": "50000",
+    "remarks": "Test RTGS Transfer"
+  }
+}
