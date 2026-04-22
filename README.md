@@ -1,5 +1,9 @@
 # 🏦 Selenium Java TestNG BDD Banking Automation Framework
 
+> ⚠️ **Note:** This is a framework demonstration repository.
+> Tests require a live banking application and environment
+> configuration to execute. CI pipeline validates build
+> structure and compilation only.
 > End-to-end test automation framework for Banking domain  
 > Built with **Selenium WebDriver (Java) + TestNG + BDD Cucumber** | CI/CD via **GitHub Actions + Jenkins**
 
